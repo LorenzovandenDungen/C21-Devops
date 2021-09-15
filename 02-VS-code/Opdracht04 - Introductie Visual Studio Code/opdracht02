@@ -1,0 +1,5 @@
+Editor - Het hoofdgebied om uw bestanden te bewerken. U kunt verticaal en horizontaal zoveel editors naast elkaar openen als u wilt.
+Zijbalk - Bevat verschillende weergaven zoals de Verkenner om u te helpen bij het werken aan uw project.
+Statusbalk - Informatie over het geopende project en de bestanden die u bewerkt.
+Activiteitenbalk - Deze bevindt zich helemaal aan de linkerkant en laat je schakelen tussen weergaven en geeft je extra contextspecifieke indicatoren, zoals het aantal uitgaande wijzigingen wanneer Git is ingeschakeld.
+Panelen - U kunt verschillende panelen onder het editorgebied weergeven voor uitvoer- of foutopsporingsinformatie, fouten en waarschuwingen, of een geïntegreerde terminal. Paneel kan ook naar rechts worden verplaatst voor meer verticale ruimte.
